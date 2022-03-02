@@ -1,5 +1,5 @@
 # Visualize Maintenance Work Orders
-Project to predict image compressibility of climate data from CESM-LE using classification methods in R
+Project to visualize maintenance work orders and drill through to find detailed machine information.
 
 ![Work Order Dashboard](https://github.com/andyreetz/Visualize-Maintenance-Work-Orders/blob/main/WO_dashboard.png)
 
